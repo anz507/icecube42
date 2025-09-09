@@ -1,0 +1,6 @@
+RGBLIGHT_ENABLE = yes
+WS2812_DRIVER = vendor
+QUANTUM_PAINTER_ENABLE = yes
+QUANTUM_PAINTER_DRIVERS += st7735_spi
+ST7735 = true
+SRC += gfx/icon.qgf.c
