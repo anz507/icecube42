@@ -29,6 +29,6 @@ Flashing example for this keyboard:
 
      Hold BOOT button on RP2040 and plug in usb c cable
      Device will be detected like a USB flash drive on computer
-     Copy and paste atomic_blst_anz507.uf2 to RP2040
+     Copy and paste icecube42_anz507.uf2 to RP2040
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
