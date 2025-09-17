@@ -32,3 +32,8 @@ Flashing example for this keyboard:
      Copy and paste icecube42_anz507.uf2 to RP2040
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+
+Known design issues:
+- Need gasket stem on the left and right of the plate, as the sidemost plate is too flexed when pressed, but not too much
+- Need some room for LCD feet
+- Need 1 more plate to feel the flex, as the room inside is too packed to feel the flex
